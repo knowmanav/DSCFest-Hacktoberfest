@@ -1,3 +1,3 @@
 Akanksha Bhasin
 Divyansh Chaurasia
-Manav Bahl <br>
+Manav Bahl <br/>
